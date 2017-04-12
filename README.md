@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Welcome to the FireChat wiki!
 
-You can use the [editor on GitHub](https://github.com/StevenSwann/FireChat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project was part of my training at FDM to create at least a single vertical slice of an Web Application of our choice. The aim of the project was to put into practice the skills that we had learnt the previous weeks in the training, work at implementing the user requirements in an agile fashion, reflect on lesson learnt and present it to our colleagues. The time we had to create this project was 2 weeks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For this project, I chose to try and create a chat system as I wanted to challenge myself with not only putting my .NET skills to the test, but also learn a completely new technology by myself that was not part of the training. As I researched what libraries/technologies would help me achieve the user requirements, I came across SignalR which seemed to offer the tools I needed to successfully implement the system that the product owner envisioned.
 
-### Markdown
+To aid my planning and to keep track of my progress, I used Trello as an online kanban board, which you may view here: https://trello.com/b/EQ02i6K1/chat-system-kanban
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+JQuery was another library that I had no knowledge about previously and so that added to the learning curve.
 
-```markdown
-Syntax highlighted code block
+I tried to adhere to the SOLID principles throughout designing and writing the code, however, looking back, there are definite areas for improvement and refactoring.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StevenSwann/FireChat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All in all, this project was one of my favourite projects to work on and I am quite proud of the result.
